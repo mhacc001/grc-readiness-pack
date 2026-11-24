@@ -1,0 +1,11 @@
+finding_id,asset,severity,cve,found,fixed
+V-201,api-gateway,Critical,CVE-2026-31010,2026-09-02,2026-09-05
+V-202,web-app,High,CVE-2026-28844,2026-09-02,2026-09-20
+V-203,worker-image,High,CVE-2026-30117,2026-09-16,2026-10-08
+V-204,web-app,Medium,CVE-2026-26601,2026-09-16,2026-11-02
+V-205,reporting-svc,High,CVE-2026-33402,2026-10-01,
+V-206,bastion-ami,High,CVE-2026-32955,2026-10-07,
+V-207,worker-image,Medium,CVE-2026-34120,2026-10-14,
+V-208,api-gateway,Low,CVE-2026-29903,2026-10-21,
+V-209,web-app,Critical,CVE-2026-35518,2026-11-18,2026-11-20
+V-210,reporting-svc,High,CVE-2026-36041,2026-11-10,

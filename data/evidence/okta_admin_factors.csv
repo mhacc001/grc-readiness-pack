@@ -1,0 +1,6 @@
+user,role,factors
+c.ferreira,Super Admin,webauthn;okta_verify
+d.weiss,Super Admin,webauthn
+s.ahmed,Org Admin,okta_verify
+t.lambert,App Admin,webauthn;okta_verify
+k.oconnor,Read-only Admin,webauthn

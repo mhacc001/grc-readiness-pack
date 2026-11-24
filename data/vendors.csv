@@ -1,0 +1,8 @@
+vendor,service,data_access,supports_critical_function,certification,breach_notice_hours,subprocessor_list,mfa_enforced,encryption_at_rest,pentest_last_12m,data_location,contract_audit_right,contract_exit_plan
+AWS,Cloud hosting (production),Restricted,Yes,SOC 2 Type II; ISO 27001,24,Yes,Yes,Yes,Yes,EU,Yes,Yes
+Okta,Identity provider,Confidential,Yes,SOC 2 Type II; ISO 27001,24,Yes,Yes,Yes,Yes,EU,Yes,Yes
+GitHub,Source code hosting,Confidential,No,SOC 2 Type II,72,Yes,Yes,Yes,Yes,US,Yes,Yes
+Datadog,Logs and monitoring,Confidential,No,SOC 2 Type II,72,Yes,Yes,Yes,Yes,US,No,Yes
+Zendesk,Customer support tickets,Confidential,No,SOC 2 Type II; ISO 27001,72,Yes,Yes,Yes,Yes,US,No,No
+PayFlow HR,Payroll (fictional),Confidential,No,None,unspecified,No,No,Yes,No,EU,Yes,No
+NorthQA Labs,Outsourced QA testing (fictional),Internal,No,None,168,No,Yes,No,No,India,No,No
